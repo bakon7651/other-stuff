@@ -1,0 +1,1 @@
+X=MsgBox("Alert! Virus detected while scanning This PC. Do you want to Scan Again?",4+16,"Alert")
