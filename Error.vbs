@@ -1,0 +1,1 @@
+X=MsgBox("Access violation at address 77C2786E in module 'ntdll.dll', Read of address 0777F895.",0+16,"Error")
